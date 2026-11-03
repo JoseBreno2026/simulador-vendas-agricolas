@@ -1,0 +1,7 @@
+# Arquivos compilados (o Eclipse/VS Code gera de novo ao compilar)
+bin/
+*.class
+
+# Temporarios de extensoes/IDE
+tempCodeRunnerFile.java
+*.rar
